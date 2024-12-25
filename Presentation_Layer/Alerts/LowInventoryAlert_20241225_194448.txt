@@ -1,0 +1,1 @@
+25-12-2024 19:44:48: Low inventory alert for item 'shirts'. Stock Quantity: 2
